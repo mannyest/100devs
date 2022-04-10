@@ -1,0 +1,1 @@
+alert('index.js worked on this githubtest ting')
